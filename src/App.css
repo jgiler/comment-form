@@ -1,0 +1,18 @@
+.comment {
+  text-align: center;
+  background-color: slategray;
+}
+
+.container {
+  text-align: center;
+  margin-top: 2rem;
+  background-color: darkgrey;
+}
+
+.replied-comment {
+  background-color: lightgray;
+}
+
+button:hover {
+  color: firebrick;
+}
